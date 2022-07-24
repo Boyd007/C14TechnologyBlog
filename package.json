@@ -1,5 +1,5 @@
 {
-  "name": "TechnologyBlog",
+  "name": "1-1-1",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -20,13 +20,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/OwaisIslam/tech-blog.git"
+    "url": "git+https://github.com/Boyd007/C14TechnologyBlog.git"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "",
   "bugs": {
-    "url": "https://github.com/OwaisIslam/tech-blog/issues"
+    "url": "https://github.com/Boyd007/C14TechnologyBlog.git"
   },
-  "homepage": "https://github.com/OwaisIslam/tech-blog#readme"
+  "homepage": ""
 }
