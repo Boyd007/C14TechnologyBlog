@@ -1,1 +1,3 @@
 # C14TechnologyBlog
+
+# Useage
