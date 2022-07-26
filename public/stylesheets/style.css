@@ -7,24 +7,24 @@ html {
     height: 100%;
     padding: 0;
     margin: 0;
-    font-family: sans-serif;
-    color: #333;
+    font-family: 'coppergothic', sans-serif;
+    color: rgb(255, 255, 255);
 }
 
 main,
 .site-name {
-    background-color: #b8cba2;
+    background-color: #6a1b75;
 }
 
 a,
 .btn-no-style,
 #comment-subtitle {
-    color: #b8cba2;
+    color: #6c3298;
 }
 
 a:hover,
 .btn-no-style:hover {
-    color: #e2edd5;
+    color: #ffffff;
 }
 
 a {
@@ -34,7 +34,7 @@ a {
 }
 
 button {
-    background-color: #225ca3;
+    background-color: #81ace0;
     border: 0;
     padding: 1%;
     color: white;
@@ -45,7 +45,7 @@ button {
 }
 
 button:hover {
-    background-color: #3486eb;
+    background-color: #1e5fae;
 }
 
 .post-list {
@@ -55,20 +55,20 @@ button:hover {
 }
 
 .go-back {
-    color: #2c2307;
+    color: #de3311;
 }
 
 textarea,
 input {
     padding: .5%;
     border-radius: 5px;
-    border: 1px solid #ccc;
+    border: 1px solid rgb(220, 220, 220);
 }
 
 textarea:focus,
 input:focus {
     outline: none;
-    border: 1px solid #3486eb;
+    border: 1px solid #c0d1e7;
 }
 
 textarea {
@@ -103,7 +103,7 @@ header,
 .site-row,
 .info-section,
 .form-heading {
-    background-color: #2c2307;
+    background-color: #611d8c;
 }
 
 .login-page,
@@ -144,7 +144,7 @@ header h1 {
 
 .site-row {
     display: flex;
-    border-bottom: 1px solid #ccc;
+    border-bottom: 1px solid rgb(177, 175, 175);
     justify-content: center;
 }
 
@@ -176,11 +176,11 @@ main {
 }
 
 .delete-post-btn {
-    background-color: #d41414;
+    background-color: #f80707;
 }
 
 .delete-post-btn:hover {
-    background-color: #ff643d;
+    background-color: #c83333;
 }
 
 .post {
@@ -192,13 +192,13 @@ main {
 .post .title span {
     font-style: italic;
     font-size: 90%;
-    color: #7d7d7d;
+    color: #5b5b5b;
 }
 
 .edit-link {
     display: block;
     margin: -1.5% 0 2% 0;
-    color: #2c2307;
+    color: #ea992f;
 }
 
 .comment-form {
@@ -211,7 +211,7 @@ main {
 }
 
 .comment:nth-child(odd) {
-    background-color: #fff5eb;
+    background-color: #ffffff;
 }
 
 .comment .meta {
@@ -244,7 +244,7 @@ main {
 
 .sign-in-link,
 .login-link {
-    color: #bd9620;
+    color: #6a1a87;
 }
 
 .form-heading h1,
