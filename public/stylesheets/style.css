@@ -13,13 +13,13 @@ html {
 
 main,
 .site-name {
-    background-color: #6a1b75;
+    background-color: #a67bac;
 }
 
 a,
 .btn-no-style,
 #comment-subtitle {
-    color: #6c3298;
+    color: #bda9cd;
 }
 
 a:hover,
@@ -34,7 +34,7 @@ a {
 }
 
 button {
-    background-color: #81ace0;
+    background-color: #83878c;
     border: 0;
     padding: 1%;
     color: white;
@@ -45,7 +45,7 @@ button {
 }
 
 button:hover {
-    background-color: #1e5fae;
+    background-color: #939daa;
 }
 
 .post-list {
@@ -103,7 +103,7 @@ header,
 .site-row,
 .info-section,
 .form-heading {
-    background-color: #611d8c;
+    background-color: #aa82c2;
 }
 
 .login-page,
@@ -244,12 +244,12 @@ main {
 
 .sign-in-link,
 .login-link {
-    color: #6a1a87;
+    color: #bd78d6;
 }
 
 .form-heading h1,
 .form-heading h2 {
-    color: #5f2b9a;
+    color: #9e81bf;
 }
 
 .login-form,
