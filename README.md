@@ -5,17 +5,13 @@
 <img width="727" alt="image" src="https://user-images.githubusercontent.com/105176171/181247503-766e09ca-bc73-49ab-8c0e-b9b42247ef1d.png">
 
 
+This application allows the user to sign up, login and post to a technology oriented blog.  The users will see and be able to comment on each other's posts. 
 
-
-
-This application allows the user to 
 # Usage
 
+<img width="969" alt="image" src="https://user-images.githubusercontent.com/105176171/181252841-0a9ac5db-69c4-4da7-9265-20d384c296b8.png">
 
-<img width="965" alt="image" src="https://user-images.githubusercontent.com/105176171/181250347-afff19d8-a6d4-4a15-ba0b-62fd9660180b.png">
-
-
-The above criteria is met when the user is able to correctly 
+The above criteria is met when the user is able to correctly sign up, login, post and revisit a blog post. 
 
 # Sample 
 
