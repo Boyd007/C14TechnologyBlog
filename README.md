@@ -29,7 +29,12 @@ The above criteria is met when the user is able to correctly sign up, login, pos
 * JS
 * Npm
 * Express.js
+* express-handlebars
 
 ### GitHub
 
 https://github.com/Boyd007/C14TechnologyBlog
+
+### Heroku Deployment
+
+https://trevortechblog.herokuapp.com/
